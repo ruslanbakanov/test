@@ -1,3 +1,5 @@
 <?php
-
-echo "Halo World!";
+$a = 1;
+$b = 2;
+$c = $a+ $b;
+echo "Halo World!<br>{$c}";
